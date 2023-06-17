@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Karla:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --font-family-inter: "inter", sans-serif;
+    --font-family-karla: "karla", sans-serif;
+
+    --font-weight-300: 300;
+    --font-weight-400: 400;
+    --font-weight-500: 500;
+    --font-weight-600: 600;
+    --font-weight-700: 700;
+
+    --font-size-10: 10px;
+    --font-size-11: 11px;
+    --font-size-12: 12px;
+    --font-size-13: 13px;
+    --font-size-14: 14px;
+    --font-size-15: 15px;
+    --font-size-16: 16px;
+    --font-size-18: 18px;
+    --font-size-19: 19px;
+    --font-size-20: 20px;
+    --font-size-21: 21px;
+    --font-size-22: 22PX;
+    --font-size-23: 23PX;
+    --font-size-24: 24px;
+    --font-size-32: 32PX;
+    --font-size-33: 33px;
+    --font-size-34: 34PX;
+    --font-size-40: 40PX;
+    --font-size-42: 42PX;
+
+    --font-color-a: #111b24;
+    --font-color-b: #ffffff;
+    --font-color-c: #bccbd6;
+    --font-color-d: #00ccab;
+    --font-color-e: #454d54;
+}
+
+#BCCBD6 .font_family_inter {
+    font-family: var(--font-family-inter);
+}
+
+.font_family_karla {
+    font-family: var(--font-family-karla);
+}
+
+.font_weight_300 {
+    font-weight: var(--font-weight-300);
+}
+
+.font_weight_400 {
+    font-weight: var(--font-weight-400);
+}
+
+.font_weight_500 {
+    font-weight: var(--font-weight-500);
+}
+
+.font_weight_600 {
+    font-weight: var(--font-weight-600);
+}
+
+.font_weight_700 {
+    font-weight: var(--font-weight-700);
+}
+
+.font_size_10 {
+    font-size: var(--font-size-10);
+}
+
+.font_size_11 {
+    font-size: var(--font-size-11);
+}
+
+.font_size_12 {
+    font-size: var(--font-size-12);
+}
+
+.font_size_13 {
+    font-size: var(--font-size-13);
+}
+
+.font_size_14 {
+    font-size: var(--font-size-14);
+}
+
+.font_size_15 {
+    font-size: var(--font-size-15);
+}
+
+.font_size_16 {
+    font-size: var(--font-size-16);
+}
+
+.font_size_18 {
+    font-size: var(--font-size-18);
+}
+
+.font_size_19 {
+    font-size: var(--font-size-19);
+}
+
+.font_size_20 {
+    font-size: var(--font-size-20);
+}
+
+.font_size_21 {
+    font-size: var(--font-size-21);
+}
+
+.font_size_22 {
+    font-size: var(--font-size-22);
+}
+
+.font_size_23 {
+    font-size: var(--font-size-23);
+}
+
+.font_size_24 {
+    font-size: var(--font-size-24);
+}
+
+.font_size_32 {
+    font-size: var(--font-size-32);
+}
+
+.font_size_33 {
+    font-size: var(--font-size-33);
+}
+
+.font_size_34 {
+    font-size: var(--font-size-34);
+}
+
+.font_size_40 {
+    font-size: var(--font-size-40);
+}
+
+.font_size_42 {
+    font-size: var(--font-size-42);
+}
+
+.font_color_a {
+    color: var(--font-color-a);
+}
+
+.font_color_b {
+    color: var(--font-color-b);
+}
+
+.font_color_c {
+    color: var(--font-color-c);
+}
+
+.font_color_d {
+    color: var(--font-color-d);
+}
+
+.font_color_e {
+    color: var(--font-color-e);
+}
